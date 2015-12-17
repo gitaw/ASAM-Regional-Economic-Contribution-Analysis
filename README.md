@@ -1,0 +1,2 @@
+# ASAM-Regional-Economic-Contribution-Analysis
+ASAM is an Excel Application that facilitates the analysis of a sector’s contribution to a regional economy by taking data from a source like IMPLAN (not included) and calculating base economic output, employment, wages and value added. The code (written in Visual Basic) driving the application is Open Source, licensed GNU GENERAL PUBLIC LICENSE v3.0.
