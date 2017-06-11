@@ -1,5 +1,5 @@
 #ASAM: Automated Social Accounting Matrix manipulation
-http://www.ecsinsights.org/asam
+https://www.skyblue10.com/ecsinsights/asam
 
 ASAM is an Excel Application that facilitates the analysis of a sector's contribution to a regional economy by taking IxI data and calculating base economic output, employment, wages and value added. The code (written in Visual Basic) driving the application is Open Source, licensed GNUv3
 * the application provides Gross and Base calculations for Output, Employment, Wages and Value Added
@@ -13,7 +13,7 @@ Economists often talk about the "multiplying effect" of a business or sector, e.
 Like with any analysis, the quality of results relies on reliable data - garbage in, garbage out. The application will run with any regional IxI sector data. Since IMPLAN is the more widely used data tool for calculating economic contribution in literature it specifically facilitates importing data from IMPLAN's impdb (and earlier revision iap) files.
 
 ==============
-*An illustrative example, references, strengths and limitation of the method and more information can be found on http://www.ecsinsights.org/asam*
+*An illustrative example, references, strengths and limitation of the method and more information can be found on https://www.skyblue10.com/ecsinsights/asam*
 
 
 ##Installation
@@ -31,4 +31,4 @@ It’s not pretty. Most of it is spaghetti code from the initial design (I often
 ASAM is released under GNUv3
 
 ##Links
-The official site for the library is at http://www.ecsinsights.org/asam
+The official site for the library is at https://www.skyblue10.com/ecsinsights/asam
